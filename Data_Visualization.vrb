@@ -1,0 +1,18 @@
+\frametitle{Encoding via Size}
+\begin{itemize}
+    ^^I^^I\item Point size is a good encoding for numeric variables.
+    ^^I^^I\item Usually, we want the numeric values to be proportional to the area of the point markers; this is the default functionality of the "s" parameter in scatter.
+    ^^I\end{itemize}
+        \vspace{0.4cm}
+        \fontsize{8}{0.5}
+        \begin{minted}{python}
+      plt.scatter(data = df, x = 'num_var1', y = 'num_var2', s = 'num_var3')
+
+      # dummy series for adding legend
+      sizes = [20, 35, 50]
+      base_color = sb.color_palette()[0]
+      legend_obj = []
+      for s in sizes:
+         legend_obj.append(plt.scatter([], [], s = s, color = base_color))
+      plt.legend(legend_obj, sizes)
+        \end{minted}

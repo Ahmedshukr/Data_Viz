@@ -1,0 +1,12 @@
+\beamer@sectionintoc {1}{Data Visualization in Data Analysis}{2}{0}{1}
+\beamer@sectionintoc {2}{Design of Visualizations}{7}{0}{2}
+\beamer@sectionintoc {3}{Univariate Exploration of Data}{16}{0}{3}
+\beamer@sectionintoc {4}{Bivariate Exploration of Data}{31}{0}{4}
+\beamer@subsectionintoc {4}{1}{Scatterplots and Correlation}{33}{0}{4}
+\beamer@subsectionintoc {4}{2}{Overplotting, Transparency, and Jitter}{37}{0}{4}
+\beamer@subsectionintoc {4}{3}{Heat Maps}{40}{0}{4}
+\beamer@subsectionintoc {4}{4}{Violin Plots}{49}{0}{4}
+\beamer@subsectionintoc {4}{5}{Box Plots}{52}{0}{4}
+\beamer@subsectionintoc {4}{6}{Clustered Bar Charts}{56}{0}{4}
+\beamer@sectionintoc {5}{Multivariate Exploration of Data}{66}{0}{5}
+\beamer@sectionintoc {6}{Explanatory Visualizations}{77}{0}{6}
